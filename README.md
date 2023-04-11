@@ -2,5 +2,7 @@
 Repository for completed HackerRank challenges 
 
 Challenges Completed in this Repo
+
 Algorithms:
-    09-Time Conversion 
+
+Time Conversion, 2D Array-DS, Plus Minus
